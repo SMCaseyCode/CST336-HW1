@@ -17,7 +17,7 @@ body {
 }
 
 span {
-    color: yellow;
+    color: #F0DB4F;
 }
 
 #page_title {
@@ -36,7 +36,7 @@ span {
 }
 
 .navbar a:hover {
-    color: yellow;
+    color: #F0DB4F;
     opacity: 60%;
 }
 
@@ -74,7 +74,7 @@ span {
     width: 100px;
     height: 30px;
     margin: 10px auto;
-    border: yellow solid;
+    border: #F0DB4F solid;
     border-radius: 30px;
     background-color: #434448;
     color: white;
