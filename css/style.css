@@ -40,10 +40,6 @@ span {
     opacity: 60%;
 }
 
-.navbar a:active {
-    color: yellow;
-}
-
 .content {
     margin: 30px;
     flex: 1 0 auto;
