@@ -155,7 +155,12 @@ footer .text_container {
 }
 
 #sources a:visited {
-    color: white;
+    color: #F0DB4F;
+}
+
+#sources a:hover {
+    color: #F0DB4F;
+    opacity: 80%;
 }
 
 .caption {
