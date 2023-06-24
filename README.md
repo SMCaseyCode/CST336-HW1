@@ -1,5 +1,4 @@
-CST336-HW1
-<hr>
+<h1>CST336-HW1</h1>
 
 Difficulties faced: <br>
 - Manipulating content in divs
