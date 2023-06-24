@@ -151,16 +151,17 @@ footer .text_container {
 }
 
 #sources a{
-    color: white;
+    color: #F0DB4F;
 }
 
 #sources a:visited {
     color: #F0DB4F;
+    opacity: 80%;
 }
 
 #sources a:hover {
     color: #F0DB4F;
-    opacity: 80%;
+    opacity: 50%;
 }
 
 .caption {
