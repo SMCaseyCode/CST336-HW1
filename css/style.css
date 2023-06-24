@@ -116,3 +116,50 @@ footer .text_container {
     font-weight: 100;
     color: darkgrey;
 }
+
+.article_container {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 1.2em;
+}
+
+.left_column {
+    width: 20rem;
+}
+
+.left_column img {
+    max-width: 280px;
+}
+
+.right_column img {
+    max-width: 280px;
+}
+
+.article, .references{
+    width: 50rem;
+    padding: 20px 20px 0 20px;
+}
+
+.article h2, .references h2{
+    text-shadow: 2px 2px black;
+}
+
+.right_column {
+    width: 20rem;
+    align-self: flex-end;
+}
+
+#sources a{
+    color: white;
+}
+
+#sources a:visited {
+    color: white;
+}
+
+.caption {
+    font-size: .7em;
+    margin-top: 0;
+    text-align: center;
+}
